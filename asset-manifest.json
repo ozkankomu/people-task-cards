@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/people-task-cards/static/css/main.78441a0a.css",
-    "main.js": "/people-task-cards/static/js/main.3571a7a3.js",
+    "main.js": "/people-task-cards/static/js/main.2b7d04ca.js",
     "index.html": "/people-task-cards/index.html",
     "main.78441a0a.css.map": "/people-task-cards/static/css/main.78441a0a.css.map",
-    "main.3571a7a3.js.map": "/people-task-cards/static/js/main.3571a7a3.js.map"
+    "main.2b7d04ca.js.map": "/people-task-cards/static/js/main.2b7d04ca.js.map"
   },
   "entrypoints": [
     "static/css/main.78441a0a.css",
-    "static/js/main.3571a7a3.js"
+    "static/js/main.2b7d04ca.js"
   ]
 }
